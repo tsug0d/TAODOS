@@ -1,6 +1,6 @@
 # IoT Pentest 101 - IP101
 <p align="center">
-  <img src="https://i.imgur.com/r9CQ1Fg.png" height="20%" width="20%">
+  <img src="https://i.imgur.com/r9CQ1Fg.png" height="18%" width="18%">
 </p>
 
 
