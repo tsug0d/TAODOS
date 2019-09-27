@@ -14,6 +14,8 @@
 
 ## Lectures
 
+(on-going)
+
 ## Support
 - If you encounter any problems or wishing to translate their lectures to your language, Feel free to contact me via tsublogs@gmail.com
 - Love it? Buy me a coffee when you meet me outside (preferred) 🥤 or via 
