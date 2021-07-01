@@ -5,7 +5,7 @@
 
 
 ## Introduction
-<p align="center">This Repository contains LABs for <a href="https://www.youtube.com/playlist?list=PLaoi7ADVdlKdU6XEFomKlXM0-r5qc-C1V" target=_blank >The Art of Layer7 DoS</a> serie</p>
+<p align="center">This Repository contains LABs for <a href="https://www.youtube.com/playlist?list=PLaoi7ADVdlKdU6XEFomKlXM0-r5qc-C1V" target=_blank >The Art of Layer7 DoS</a> series</p>
 
 ## Requirement
 * Docker
