@@ -1,20 +1,18 @@
-# IoT Pentest 101 - IP101
+# The Art of DoS PlayGround
 <p align="center">
   <img src="https://i.imgur.com/r9CQ1Fg.png" height="18%" width="18%">
 </p>
 
 
 ## Introduction
-<p align="center">Basic guide lead you how to pentest an IoT firmware, you will quickly gain knowledge & experience through the course, enjoy it! 
+<p align="center">This Repository contains LABs for <a href="https://www.youtube.com/playlist?list=PLaoi7ADVdlKdU6XEFomKlXM0-r5qc-C1V">The Art of Layer7 DoS</a> serie</p>
 
 ## Requirement
-* A Computer with SSD card, so you will feel comfortable when running the virtual machine
-* Little command-line skill
+* Docker
 * Brain
 
-## Lectures
-
-(on-going)
+## Machine
+(to-be-updated)
 
 ## Support
 - If you encounter any problems or wishing to translate their lectures to your language, Feel free to contact me via tsublogs@gmail.com
