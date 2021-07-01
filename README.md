@@ -1,6 +1,6 @@
 # The Art of DoS PlayGround
 <p align="center">
-  <img src="https://i.imgur.com/r9CQ1Fg.png" height="18%" width="18%">
+  <img src="https://i.imgur.com/XFh0zqC.png" height="18%" width="18%">
 </p>
 
 
