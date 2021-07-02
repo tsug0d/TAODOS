@@ -1,6 +1,6 @@
 # The Art of DoS PlayGround
 <p align="center">
-  <img src="https://i.imgur.com/XFh0zqC.png" height="15%" width="15%">
+  <img src="https://i.imgur.com/8Y8tctr.png" height="15%" width="15%">
 </p>
 
 
@@ -16,6 +16,6 @@
 
 ## Support
 - If you encounter any problems or wishing to translate their lectures to your language, Feel free to contact me via tsublogs@gmail.com
-- Love it? Buy me a coffee when you meet me outside (preferred) 🥤 or via 
+- Love it? Buy me a coffee when you meet me outside
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ ![alt text](https://i.imgur.com/XEK2Y4Z.png)](https://www.buymeacoffee.com/tsug0d)
